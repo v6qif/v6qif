@@ -1,7 +1,7 @@
 # Hello 👋, I'm Vaqif
 ### Front-End Developer
 
-Even though I'm a professional Front-End Developer, I'm actively expanding my skills into the Back-End. I'm passionate about my work and love building projects and tools.
+Even though I'm a professional Front-End Developer and Music Producer, I'm actively expanding my skills into the Back-End. I'm passionate about my work and love building projects and tools.
 
 ## Contact Me
 <p><a href="https://x.com/v6qif" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="www.tiktok.com/v6qif" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a> <a href="www.instagram.com/v6qif" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
